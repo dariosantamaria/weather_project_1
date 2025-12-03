@@ -1,0 +1,122 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+#added 15-11-2025
+.metadata
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+build/
+.idea/
+.vscode/
+weather_project_1.code-workspace
+.gitignore.bak
+assets/.env
+
+
+# cifrare il PNG con 256
+secret.key
+assets/keys/secret.key
+assets/planet_sprite_32x1.png
+
+#
+security_suite_1_15_log.txt
+secret.key
+loadtest.sh
+loadtest.sh.bak
+ChromeNoCORS.bat
+ChromeNoCORS.bat.bak
+benchmark.js
+benchmark.js.bak
+
+#
+# integration_test
+all_in_one_test.dart
+auth_service_clock_skew_test.dart
+auth_service_demo_test.dart
+auth_service_device_mismatch_test.dart
+auth_service_frames_invalid_test.dart
+auth_service_frames_valid_test.dart
+auth_service_fullchain_test.dart
+auth_service_header_mismatch_test.dart
+auth_service_invalid_header_test.dart
+auth_service_invalid_signature_test.dart
+auth_service_malformed_signature_test.dart
+auth_service_massive_requests_test.dart
+auth_service_missing_headers_test.dart
+auth_service_missing_signature_test.dart
+auth_service_nonce_quality_test.dart
+auth_service_nonce_reuse_test.dart
+auth_service_old_timestamp_test.dart
+auth_service_rate_limit_realistic_test.dart
+auth_service_rate_limit_stress_test.dart
+auth_service_real_test.dart
+auth_service_wrong_key_test.dart
+run_all_tests.dart
+test10b_driver_test.dart
+test10b_standalone.dart
+auth_service_wrong_key_test.dart
+
+#out project
+out_of_Project
+
+#test
+test
+
+#README
+README.md.bak
+
+#LOG
+security_suite_1_15_DEMO_log.txt
+security_suite_1_15_REAL_log.txt
+
+# backup
+*.bak
+*.backup
+
+# screenshot
+assets/screenshots/OLD
